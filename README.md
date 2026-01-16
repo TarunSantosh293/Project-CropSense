@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Project-CropSense
-=======
 # CropSense
 
 **Scan Crops. Improve Yield. Reduce Waste.**
@@ -64,4 +61,3 @@ For the hackathon demo, rename your image files to trigger specific results (Moc
 
 - Python 3.8+
 - Node.js 18+
->>>>>>> 690fc24 (Initital Commit)
